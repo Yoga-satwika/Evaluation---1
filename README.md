@@ -177,6 +177,20 @@
 
   <img width="425" height="87" alt="image" src="https://github.com/user-attachments/assets/1ce93ee1-f6c8-41fb-8801-d349bdf02130" />
 
+#  Package
+
+   A package is a collection of modules stored in a directory that contains a special file called __init__.py.
+
+syntax:
+
+      my packages/
+          __init___.py
+          math.py
+          main.py
+
+  <img width="404" height="87" alt="image" src="https://github.com/user-attachments/assets/3e1a2044-f2aa-47f2-969e-443e8d96eb56" />
+
+
 
 
  
