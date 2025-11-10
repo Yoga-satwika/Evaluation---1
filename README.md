@@ -224,6 +224,15 @@ It is a way of writing programs using objects — just like how we see things in
 
 * Object
 
+   An object is an instance (copy) of a class.
+  
+It is created from a class blueprint and contains its own data and behavior.
+
+    Object_name = Classname 
+
+<img width="319" height="156" alt="image" src="https://github.com/user-attachments/assets/38ac7cc1-e1e2-4c41-8308-a1c83a7fdaca" />
+
+
      
 
 
