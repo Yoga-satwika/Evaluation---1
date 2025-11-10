@@ -86,6 +86,8 @@
 
    list is mutable , it can be changed or moved.
 
+     syntax :- list_name = [ 1 , 2 , 2 , 3 , 4] 
+
   * Accessing List Elements (Indexing & Slicing)
 
      <img width="362" height="204" alt="image" src="https://github.com/user-attachments/assets/15e57103-173d-453e-875b-69171e62ef2b" />
@@ -101,6 +103,42 @@
    <img width="276" height="78" alt="image" src="https://github.com/user-attachments/assets/dba63f88-cf24-46b3-b4ed-925478c95791" />
 
    <img width="316" height="119" alt="image" src="https://github.com/user-attachments/assets/acbeb25d-6393-4c65-8374-de18a161d283" />
+
+# Tuple 
+
+ Tuple is immutable that is it cannot be changed or moved.
+
+    syntax :- tuple_name = ( 1 , 2, 3, 4 )
+
+* Creating a Tuple
+
+    <img width="334" height="152" alt="image" src="https://github.com/user-attachments/assets/27ce0a3e-3a87-4658-956c-ab0c7e7f7976" />
+
+* Looping through a Tuple
+
+   <img width="316" height="131" alt="image" src="https://github.com/user-attachments/assets/a79a31c2-570f-4704-a4a2-695b1506c227" />
+
+# Set
+
+  A set is an unordered, unindexed, and mutable collection of unique elements.
+  
+  It automatically removes duplicates and does not allow indexing or slicing.
+
+     Syntax :- set_name = { element1, element2, element3, ......}
+
+  * Set Removes Duplicates Automatically
+
+     <img width="215" height="88" alt="image" src="https://github.com/user-attachments/assets/1faff550-8df3-4573-b7d7-dca369be8780" />
+
+  * Add and Remove Elements
+
+# Dictionaries 
+
+  
+
+ 
+
+
 
 
 
