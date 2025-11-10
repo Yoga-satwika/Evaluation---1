@@ -82,6 +82,10 @@
 
   <img width="354" height="110" alt="image" src="https://github.com/user-attachments/assets/b253a0f3-67be-4928-9cd3-495fba4ed927" />
 
+# Data Structures in Python
+
+   Data structures are used to store and organize data efficiently in Python.
+
 # list
 
    list is mutable , it can be changed or moved.
@@ -189,6 +193,8 @@ syntax:
           main.py
 
   <img width="404" height="87" alt="image" src="https://github.com/user-attachments/assets/3e1a2044-f2aa-47f2-969e-443e8d96eb56" />
+
+  
 
 
 
