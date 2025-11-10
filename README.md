@@ -153,6 +153,23 @@
 
      <img width="410" height="120" alt="image" src="https://github.com/user-attachments/assets/372618a0-363d-44dc-801c-55628d24cccd" />
 
+  * Loop Through Dictionary
+
+     <img width="441" height="119" alt="image" src="https://github.com/user-attachments/assets/54aad14e-cbc8-4f9c-9256-0f56104ad6bc" />
+
+ # Functions 
+
+   A function is a block of reusable code that is used to perform a specific task.
+
+      def function_name (parameters)
+      statement()
+      return value
+      
+
+
+ 
+
+
  
 
 
