@@ -132,7 +132,30 @@
 
   * Add and Remove Elements
 
+      <img width="221" height="127" alt="image" src="https://github.com/user-attachments/assets/ae3211fd-d9b6-4264-8792-b16adfa212a3" />
+
 # Dictionaries 
+
+   A Dictionary is an unordered, mutable collection of key–value pairs.
+   
+   Each key must be unique, and values can be of any data type.
+
+   Syntax of Dictionary
+
+           dictionary_name = {
+           key1: value1,
+           key2: value2,
+           key3: value3,
+          ...
+          }
+
+  * Creating a Dictionary
+
+     <img width="410" height="120" alt="image" src="https://github.com/user-attachments/assets/372618a0-363d-44dc-801c-55628d24cccd" />
+
+ 
+
+
 
   
 
