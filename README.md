@@ -164,10 +164,19 @@
       def function_name (parameters)
       statement()
       return value
+
+* Function with Parameters
       
+  <img width="422" height="67" alt="image" src="https://github.com/user-attachments/assets/bc2fab61-aaea-469b-b01e-b5d5c0a15221" />
 
+#  Modules and Packages: Organizing code into modules and packages. 
 
- 
+# Module 
+
+  A module in Python is simply a file that contains Python code — functions, classes, or variables — which can be imported and used in another Python program.
+
+  <img width="425" height="87" alt="image" src="https://github.com/user-attachments/assets/1ce93ee1-f6c8-41fb-8801-d349bdf02130" />
+
 
 
  
