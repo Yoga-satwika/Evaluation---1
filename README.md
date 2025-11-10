@@ -203,6 +203,30 @@ syntax:
   syntax :
 
          file = ("filename", "mode")
+
+# OOPS - ( Object oriented Programming)
+
+OOPs means Object-Oriented Programming System.
+
+It is a way of writing programs using objects — just like how we see things in the real world.
+
+# Main Concepts of OOP
+
+* Class
+
+   A class is a blueprint or template for creating objects.
+
+   It defines functions and variables that the object created from the class.
+
+        class classname:
+
+  <img width="443" height="170" alt="image" src="https://github.com/user-attachments/assets/8bf7b54c-9179-4cbc-82e5-02038ce48056" />
+
+* Object
+
+     
+
+
   
 
 
