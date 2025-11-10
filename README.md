@@ -194,6 +194,15 @@ syntax:
 
   <img width="404" height="87" alt="image" src="https://github.com/user-attachments/assets/3e1a2044-f2aa-47f2-969e-443e8d96eb56" />
 
+# File Handling:
+
+  File handling allows you to create, read, write, and modify files in Python.
+ 
+  It is useful for storing and retrieving data from text files, log or external data sources.
+
+  syntax :
+
+         file = ("filename", "mode")
   
 
 
