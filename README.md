@@ -287,6 +287,18 @@ It is created from a class blueprint and contains its own data and behavior.
   
   Multilevel Inheritance means that a class inherits from another class, and that class itself is inherited by another  class — forming a chain.
 
+       class Grandparent:
+       pass
+
+       class Parent(Grandparent):
+       pass
+ 
+       class Child(Parent):
+       pass
+
+
+
+
 
    
 
