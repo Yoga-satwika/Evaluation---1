@@ -219,6 +219,16 @@ syntax:
    It defines functions and variables that the object created from the class.
 
         class classname:
+* Why we use Class
+
+    * Keeps related data and functions together in one place.
+    * You can create many objects from one class without rewriting code.
+    * To model real-world things
+    * To make code easier to manage and understand.
+ 
+* When we use
+
+     * We use a class when we want to organize data and behavior together.
 
   <img width="443" height="170" alt="image" src="https://github.com/user-attachments/assets/8bf7b54c-9179-4cbc-82e5-02038ce48056" />
 
@@ -229,6 +239,16 @@ syntax:
 It is created from a class blueprint and contains its own data and behavior.
 
     Object_name = Classname 
+
+* Why we use Object
+
+   * Access the data and functions inside a class.
+   * Store unique data for each object.
+   * Represent real-world entities in code.
+
+* When we Use
+
+    * when we need to use the properties or actions of a class.
 
 <img width="319" height="156" alt="image" src="https://github.com/user-attachments/assets/38ac7cc1-e1e2-4c41-8308-a1c83a7fdaca" />
 
