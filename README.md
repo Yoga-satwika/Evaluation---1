@@ -342,6 +342,27 @@ It is created from a class blueprint and contains its own data and behavior.
 
  <img width="460" height="266" alt="image" src="https://github.com/user-attachments/assets/2ad5adec-2022-4abe-ad01-c1fac6a97593" />
 
+ * Polymorphism:
+
+    It means many forms — the same method behaves differently based on the object.
+
+   Polymorpshism is a concept of object oriented programming, which means multiple forms or more than one form
+
+Types of Polymorphisms
+
+1) Compile - time
+
+   a) Method - over-loading
+
+2) Run - time
+
+    b) Method - over-ridding
+
+# Compile-time — Method Overloading
+
+   * Method overloading = multiple methods in the same class with the same name but different parameter lists (different types or number of parameters).
+   
+
  
 
 
