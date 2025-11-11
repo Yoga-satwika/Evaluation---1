@@ -206,9 +206,9 @@ syntax:
 
 # OOPS - ( Object oriented Programming)
 
-OOPs means Object-Oriented Programming System.
+  OOPs means Object-Oriented Programming System.
 
-It is a way of writing programs using objects — just like how we see things in the real world.
+  It is a way of writing programs using objects — just like how we see things in the real world.
 
 # Main Concepts of OOP
 
@@ -231,6 +231,63 @@ It is created from a class blueprint and contains its own data and behavior.
     Object_name = Classname 
 
 <img width="319" height="156" alt="image" src="https://github.com/user-attachments/assets/38ac7cc1-e1e2-4c41-8308-a1c83a7fdaca" />
+
+<img width="438" height="188" alt="image" src="https://github.com/user-attachments/assets/bb4e42a7-53b9-4aae-983c-a26936ec19aa" />
+
+* What is __init__() in Python?
+
+   When you create an object, the __init__() method sets up the object — it initializes the object’s data (variables).
+
+   The __init__() method is a special method (also called a constructor) in Python classes.
+  
+* Why We Use __init__()
+
+    To initialize variables
+     Automatic Execution
+    To avoid repetitive code
+    To make object ready to use
+
+   Whenever your class needs to store data like name, age, color, etc., for each object.
+
+# Inheritance:
+
+   It allows a class (child class) to inherit properties and methods from another class (parent class).
+
+  * Single inheritance
+  * Multilevel inheritance
+  * Hierararichal inheritance
+  * Multiple inheritance
+
+* Single Inheritance:
+
+    A child class inherits from only one parent class
+
+  * We Use Single Inheritance for 
+ 
+     Code Reusability
+     Simplicity
+     Logical Relationship
+     Extend Functionality
+
+         class Parent:
+        def parent_method(self):
+        print("This is the parent class")
+
+        class Child(Parent):
+
+        def child_method(self):
+        print("This is the child class")
+
+        obj = Child()
+
+        obj.parent_method()
+        obj.child_method()
+
+
+
+   
+
+
 
 
      
