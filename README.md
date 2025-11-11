@@ -283,6 +283,9 @@ It is created from a class blueprint and contains its own data and behavior.
         obj.parent_method()
         obj.child_method()
 
+* Multilevel Inheritance
+  
+  Multilevel Inheritance means that a class inherits from another class, and that class itself is inherited by another  class — forming a chain.
 
 
    
