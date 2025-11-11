@@ -283,6 +283,8 @@ It is created from a class blueprint and contains its own data and behavior.
         obj.parent_method()
         obj.child_method()
 
+  <img width="347" height="275" alt="image" src="https://github.com/user-attachments/assets/9f7b3d5b-ac0c-4e32-ae10-86c50474fb0d" />
+
 * Multilevel Inheritance
   
   Multilevel Inheritance means that a class inherits from another class, and that class itself is inherited by another  class — forming a chain.
@@ -295,6 +297,58 @@ It is created from a class blueprint and contains its own data and behavior.
  
        class Child(Parent):
        pass
+
+  <img width="375" height="281" alt="image" src="https://github.com/user-attachments/assets/71c7b00d-3778-4aa7-9023-38a1a72aeb1c" />
+
+* Hierararichal inheritance
+
+   Hierarchical inheritance occurs when multiple child classes inherit from a single parent class.
+
+       class Parent:
+       def display(self):
+       print("This is the parent class.")
+       class Child1(Parent):
+       def show1(self):
+       print("This is child class 1.")
+       class Child2(Parent):
+       def show2(self):
+       print("This is child class 2.")
+       obj1 = Child1()
+       obj2 = Child2()
+       obj1.display()
+       obj1.show1()
+       obj2.display()
+       obj2.show2()
+
+  <img width="311" height="304" alt="image" src="https://github.com/user-attachments/assets/a94daaf1-24f4-4a7f-ae46-7e4781928524" />
+
+* Multiple inheritance
+
+    Multiple inheritance occurs when a child class inherits from more than one parent class.
+
+      class Parent1:
+      def func1(self):
+      print("This is from Parent 1")
+      class Parent2:
+      def func2(self):
+      print("This is from Parent 2")
+      class Child(Parent1, Parent2):
+      def func3(self):
+      print("This is Child class")
+      obj = Child()
+      obj.func1()
+      obj.func2()
+      obj.func3()
+
+ <img width="460" height="266" alt="image" src="https://github.com/user-attachments/assets/2ad5adec-2022-4abe-ad01-c1fac6a97593" />
+
+ 
+
+
+  
+
+
+
 
 
 
